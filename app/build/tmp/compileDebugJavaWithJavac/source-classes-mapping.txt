@@ -1,0 +1,2 @@
+com/murtuza/paging3/BuildConfig.java
+ com.murtuza.paging3.BuildConfig
